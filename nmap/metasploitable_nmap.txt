@@ -1,0 +1,5 @@
+nmap -sV
+
+nmap -O
+
+nmap -A
